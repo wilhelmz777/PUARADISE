@@ -11,12 +11,13 @@ body {
 /* Navbar */
 nav {
 	display: flex;
-	background-color: rgb(173, 173, 41);
+	background-color: #cde3eb	;
 	justify-content: space-around;
 	/* padding: 20px 0; */
 	color: rgb(51, 59, 168);
 	height: 50px;
 	align-items: center;
+	box-shadow: -2px -6px 16px black;
 }
 
 nav .logo {
