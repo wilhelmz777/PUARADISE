@@ -42,6 +42,7 @@ nav ul li a {
 	text-decoration: none;
 	font-size: 16px;
 	opacity: 0.6;
+	text-transform: uppercase;
 	transition: 0.4s;
 }
 
